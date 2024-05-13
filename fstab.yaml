@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p50052-e1322076.adobeaemcloud.com/bin/franklin.delivery/adobehols/navdeeps-test-xwalk/main"
+    url: "https://author-p29663-e1341960.adobeaemcloud.com/bin/franklin.delivery/adobehols/navdeeps-test-xwalk/main"
     type: "markup"
     suffix: ".html"
